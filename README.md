@@ -17,6 +17,8 @@ It is a Language Model (LLM) that responds effectively to questions. This model 
 
 Insert gif or link to demo
 
+<img width="1280" alt="gemini1" src="https://github.com/modamaan/Gemini_LLM_model/assets/121436543/4e4dd231-b213-4044-ae3f-eb844abd1fe4">
+
 https://rb.gy/u5b495
 ## Run Locally
 
@@ -110,20 +112,3 @@ To run this project, you will need to add the following environment variables to
 For support, email mohamedamaan319@gmail.com.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Gemini_LLM_model
-
-
-<img width="1280" alt="gemini1" src="https://github.com/modamaan/Gemini_LLM_model/assets/121436543/4e4dd231-b213-4044-ae3f-eb844abd1fe4">
-)
